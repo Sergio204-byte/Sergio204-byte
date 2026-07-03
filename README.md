@@ -1,17 +1,21 @@
+<!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Sergio Martínez</h1>
 <h3 align="center" style="color: #ffffff;">Passionate Full-Stack Developer and AI/ML enthusiast from Mexico</h3>
 
+<!-- Profile Views Section -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sergio204-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Sergio204-byte" />
 </p>
 
+<!-- GitHub Profile Trophy -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Sergio204-byte&theme=dracula&margin-w=30&no-bg=true&row=1&column=6" alt="Sergio204-byte trophies" />
   </a>
 </p>
 
+<!-- Connect with Me Section -->
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sergio-uriel-mart%C3%ADnez-huerta-846337355/" target="blank">
@@ -19,6 +23,24 @@
   </a>
 </p>
 
+<!-- ABOUT ME SECTION -->
+<h3 align="left" style="color: #ffffff;">🚀 About Me</h3>
+<ul>
+  <li>🎓 I'm currently a 7th-semester Computer Engineering student at UAEMex.</li>
+  <li>💼 I work as a Software Development Engineer Intern at Bosch, and I also take on independent clients for web development and technical services.</li>
+  <li>🌱 I'm deeply interested in Data Science, Machine Learning, Cybersecurity, and IT Governance frameworks like ISO 27001 and ITIL 4.</li>
+  <li>⚡ Fun fact: When I'm not coding, I enjoy hardware modification, restoring retro gaming consoles, and configuring lightweight Linux distributions on legacy hardware.</li>
+</ul>
+
+<!-- FEATURED PROJECTS SECTION -->
+<h3 align="left" style="color: #ffffff;">💻 Featured Projects</h3>
+<ul>
+  <li>🌮 <b>La Ruta del Sabor:</b> A web project documenting Mexican gastronomy across all 32 states, featuring responsive design and media carousels.</li>
+  <li>🎓 <b>Verde y Oro:</b> Re-engineering a faculty-level academic titling system by migrating it to modern technologies like Django.</li>
+  <li>⚽ <b>World Cup Predictor:</b> A predictive machine learning model for the 2026 World Cup utilizing XGBoost and LightGBM.</li>
+</ul>
+
+<!-- Languages and Tools Section -->
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -33,6 +55,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
@@ -45,8 +70,14 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -77,6 +108,7 @@
   </a> 
 </p>
 
+<!-- GitHub Stats Section -->
 <div align="center">
   <a href="https://github.com/Sergio204-byte">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sergio204-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Sergio Stats" />
@@ -86,6 +118,7 @@
 
 <br />
 
+<!-- Parrot GIFs -->
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
