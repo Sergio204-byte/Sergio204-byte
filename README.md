@@ -14,7 +14,7 @@
 
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario-aqui](https://www.linkedin.com/in/sergio-uriel-mart%C3%ADnez-huerta-846337355/" target="blank">
+  <a href="https://www.linkedin.com/in/sergio-uriel-mart%C3%ADnez-huerta-846337355/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sergio Martínez LinkedIn" height="30" width="40" />
   </a>
 </p>
