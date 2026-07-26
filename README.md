@@ -108,6 +108,33 @@
   </a> 
 </p>
 
+
+<!-- Version en Español -->
+<details>
+  <summary>🌎 <b>Leer en Español / Spanish Version</b></summary>
+  <br>
+
+  <h3 align="left" style="color: #ffffff;">🚀 Sobre Mí</h3>
+  <ul>
+    <li>🎓 Actualmente curso el 7mo semestre de Ingeniería en Computación en la UAEMex.</li>
+    <li>💼 Trabajo como Software Development Engineer Intern en Bosch y también atiendo clientes independientes para desarrollo web y servicios técnicos.</li>
+    <li>🌱 Estoy profundamente interesado en Ciencia de Datos, Machine Learning, Ciberseguridad y marcos de Gobierno de TI como ISO 27001 e ITIL 4.</li>
+    <li>⚡ Dato curioso: Cuando no estoy programando, disfruto de la modificación de hardware, la restauración de consolas de videojuegos retro y la configuración de distribuciones Linux ligeras en equipos antiguos.</li>
+  </ul>
+
+  <h3 align="left" style="color: #ffffff;">💻 Proyectos Destacados</h3>
+  <ul>
+    <li>🌮 <b>La Ruta del Sabor:</b> Un proyecto web que documenta la gastronomía mexicana de los 32 estados, destacando por su diseño responsivo y carruseles multimedia.</li>
+    <li>🎓 <b>Verde y Oro:</b> Reingeniería de un sistema académico de titulación a nivel facultad, migrándolo a tecnologías modernas como Django.</li>
+    <li>⚽ <b>Predictor del Mundial:</b> Un modelo predictivo de machine learning para la Copa del Mundo 2026 utilizando XGBoost y LightGBM.</li>
+  </ul>
+</details>
+<br>
+
+
+
+
+
 <!-- GitHub Stats Section -->
 <div align="center">
   <a href="https://github.com/Sergio204-byte">
