@@ -1,19 +1,7 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" style="color: #ffffff;">¡¡Hola, yo soy Sergio Martínez!!</h1>
-<h3 align="center" style="color: #ffffff;">Estudiante de Ingeniería en Computación con experiencia creciente en soporte técnico, desarrollo web y gestión de bases de datos. Combino mi formación académica con la implementación de arquitecturas de microservicios, proyectos de Machine Learning y la reingeniería para optimizar procesos tecnológicos.</h3>
-
-<!-- Profile Views Section -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sergio204-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Sergio204-byte" />
-</p>
-
-<!-- GitHub Profile Trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sergio204-byte&theme=dracula&margin-w=30&no-bg=true&row=1&column=6" alt="Sergio204-byte trophies" />
-  </a>
-</p>
+<h3 align="center" style="color: #ffffff;">Estudiante de Ingeniería en Computación con experiencia creciente en soporte técnico, desarrollo web y gestión de bases de datos. Este es un pequeño espacio que alberga mis avances en las diversas áreas en las que deseo desenvolverme 🤓</h3>
 
 <!-- Connect with Me Section -->
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
