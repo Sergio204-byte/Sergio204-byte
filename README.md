@@ -1,7 +1,7 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" style="color: #ffffff;">¡¡Hola, yo soy Sergio Martínez!!</h1>
-<h3 align="center" style="color: #ffffff;">Estudiante de Ingeniería en Computación con experiencia creciente en soporte técnico, desarrollo web y gestión de bases de datos. Este es un pequeño espacio que alberga mis avances en las diversas áreas en las que deseo desenvolverme 🤓</h3>
+<h3 align="center" style="color: #ffffff;">Este espacio es un portafolio personal donde documento mis avances y proyectos dentro de las diversas áreas tecnológicas en las que busco desarrollarme 🤓"</h3>
 
 <!-- Connect with Me Section -->
 <h3 align="left" style="color: #ffffff;">Contactame</h3>
@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.instagram.com/sergioh_004/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sergio Martínez Instagram" height="30" width="40" style="margin-left:10px;/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sergio Martínez Instagram" height="30" width="40"/>
   </a>
 </p>
 
