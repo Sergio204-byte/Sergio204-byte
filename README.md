@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #ffffff;">Estudiante de Ingeniería en Computación con experiencia creciente en soporte técnico, desarrollo web y gestión de bases de datos. Este es un pequeño espacio que alberga mis avances en las diversas áreas en las que deseo desenvolverme 🤓</h3>
 
 <!-- Connect with Me Section -->
-<h3 align="left" style="color: #ffffff;">Contactame:</h3>
+<h3 align="left" style="color: #ffffff;">Contactame</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sergio-uriel-mart%C3%ADnez-huerta-846337355/" target="blank">
@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.instagram.com/sergioh_004/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sergio Martínez Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sergio Martínez Instagram" height="30" width="40" style="margin-left:10px;/>
   </a>
 </p>
 
