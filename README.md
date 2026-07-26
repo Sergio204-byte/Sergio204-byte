@@ -5,13 +5,12 @@
 
 <!-- Connect with Me Section -->
 <h3 align="left" style="color: #ffffff;">Contactame:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sergio-uriel-mart%C3%ADnez-huerta-846337355/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sergio Martínez LinkedIn" height="30" width="40" />
   </a>
-</p>
 
-<p aling="left">
   <a href="https://www.instagram.com/sergioh_004/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sergio Martínez Instagram" height="30" width="40" />
   </a>
