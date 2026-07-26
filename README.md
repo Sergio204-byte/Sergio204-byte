@@ -18,12 +18,11 @@
 
 
 <!-- ABOUT ME SECTION -->
-<h3 align="left" style="color: #ffffff;">🚀 About Me</h3>
+<h3 align="left" style="color: #ffffff;"> Sobre mí </h3>
 <ul>
-  <li>🎓 I'm currently a 7th-semester Computer Engineering student at UAEMex.</li>
-  <li>💼 I work as a Software Development Engineer Intern at Bosch, and I also take on independent clients for web development and technical services.</li>
-  <li>🌱 I'm deeply interested in Data Science, Machine Learning, Cybersecurity, and IT Governance frameworks like ISO 27001 and ITIL 4.</li>
-  <li>⚡ Fun fact: When I'm not coding, I enjoy hardware modification, restoring retro gaming consoles, and configuring lightweight Linux distributions on legacy hardware.</li>
+  <li>🎓 Estudiante de Ingeniería en Computación, siempre buscando cómo aplicar la tecnología a mi entorno diario.</li>
+  <li>🚌 Me gusta poder resolver problemas, analizar el entorno y ser capaz de ver los caminos para una correcta resolución (no solo en el ambiente de ingeniería).</li>
+  <li>🤝 Disfruto el trabajo colaborativo, compartiendo conocimientos y ayudando a estructurar proyectos académicos con mis compañeros. Aunque también puedo ser competitivo y eso me mueve a poder crecer y aprender cada día que pasa ;))</li>
 </ul>
 
 <!-- FEATURED PROJECTS SECTION -->
