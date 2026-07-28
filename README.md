@@ -20,9 +20,9 @@
 <!-- ABOUT ME SECTION -->
 <h3 align="left" style="color: #ffffff;"> Sobre mí </h3>
 <ul>
-  <li>🎓 Estudiante de Ingeniería en Computación, siempre buscando cómo aplicar la tecnología a mi entorno diario.</li>
-  <li>🚌 Me gusta poder resolver problemas, analizar el entorno y ser capaz de ver los caminos para una correcta resolución (no solo en el ambiente de ingeniería).</li>
-  <li>🤝 Disfruto el trabajo colaborativo, compartiendo conocimientos y ayudando a estructurar proyectos académicos con mis compañeros. Aunque también puedo ser competitivo y eso me mueve a poder crecer y aprender cada día que pasa ;))</li>
+  <li> >> Estudiante de Ingeniería en Computación, siempre busco cómo aplicar la tecnología a mi entorno diario.</li>
+  <li> >> Me gusta poder resolver problemas, analizar el entorno y ser capaz de ver los caminos para una correcta resolución (no solo en el ambiente de ingeniería).</li>
+  <li> >> Disfruto el trabajo colaborativo, compartiendo conocimientos y ayudando a estructurar proyectos académicos con mis compañeros. Aunque también puedo ser competitivo y eso me mueve a poder crecer y aprender cada día que pasa ;))</li>
 </ul>
 
 <!-- FEATURED PROJECTS SECTION -->
