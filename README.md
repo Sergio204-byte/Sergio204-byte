@@ -1,10 +1,10 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" style="color: #ffffff;">¡¡Hola, yo soy Sergio Martínez!!</h1>
-<h3 align="center" style="color: #ffffff;">Este espacio es un portafolio personal donde documento mis avances y proyectos dentro de las diversas áreas tecnológicas en las que busco desarrollarme 🤓"</h3>
+<h3 align="center" style="color: #ffffff;">Estudiante de Ingeniería en Computación (7mo semestre - UAEMex) & Software Development Engineer Intern en Bosch 🚀</h3>
 
 <!-- Connect with Me Section -->
-<h3 align="left" style="color: #ffffff;">Contactame</h3>
+<h3 align="left" style="color: #ffffff;">Contáctame</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sergio-uriel-mart%C3%ADnez-huerta-846337355/" target="blank">
@@ -16,21 +16,26 @@
   </a>
 </p>
 
-
 <!-- ABOUT ME SECTION -->
 <h3 align="left" style="color: #ffffff;"> Sobre mí </h3>
 <ul>
-  <li> >> Estudiante de Ingeniería en Computación, siempre busco cómo aplicar la tecnología a mi entorno diario.</li>
-  <li> >> Me gusta poder resolver problemas, analizar el entorno y ser capaz de ver los caminos para una correcta resolución (no solo en el ambiente de ingeniería).</li>
-  <li> >> Disfruto el trabajo colaborativo, compartiendo conocimientos y ayudando a estructurar proyectos académicos con mis compañeros. Aunque también puedo ser competitivo y eso me mueve a poder crecer y aprender cada día que pasa ;))</li>
+  <li> 🎓 Actualmente curso el 7mo semestre de Ingeniería en Computación en la UAEMex.</li>
+  <li> 💼 Trabajo como Software Development Engineer Intern en Bosch y atiendo clientes independientes para desarrollo web y soporte técnico.</li>
+  <li> 🌱 Profundamente interesado en Ciencia de Datos, Machine Learning, Ciberseguridad y marcos de Gobierno de TI (ISO 27001, ITIL 4).</li>
+  <li> ⚡ <b>Dato curioso:</b> Disfruto la modificación de hardware, la restauración de consolas retro y configurar distribuciones Linux ligeras en equipos antiguos.</li>
 </ul>
 
 <!-- FEATURED PROJECTS SECTION -->
-<h3 align="left" style="color: #ffffff;">💻 Featured Projects</h3>
+<h3 align="left" style="color: #ffffff;">💻 Proyectos Destacados</h3>
+<p><i>Una selección rápida de mis trabajos principales. (¡Pronto más actualizaciones!)</i></p>
 <ul>
-  <li>🌮 <b>La Ruta del Sabor:</b> A web project documenting Mexican gastronomy across all 32 states, featuring responsive design and media carousels.</li>
-  <li>🎓 <b>Verde y Oro:</b> Re-engineering a faculty-level academic titling system by migrating it to modern technologies like Django.</li>
-  <li>⚽ <b>World Cup Predictor:</b> A predictive machine learning model for the 2026 World Cup utilizing XGBoost and LightGBM.</li>
+  <li>🌮 <b><a href="https://github.com/Sergio204-byte">La Ruta del Sabor</a>:</b> Proyecto web que documenta la gastronomía mexicana de los 32 estados con diseño responsivo y carruseles multimedia. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
+  <li>🎓 <b><a href="https://github.com/Sergio204-byte">Verde y Oro</a>:</b> Reingeniería de sistema académico de titulación a nivel facultad utilizando tecnologías modernas. <code>Django</code> <code>Python</code> <code>PostgreSQL</code></li>
+  <li>⚽ <b><a href="https://github.com/Sergio204-byte">World Cup Predictor</a>:</b> Modelo predictivo de Machine Learning para la Copa del Mundo 2026. <code>XGBoost</code> <code>LightGBM</code> <code>Python</code></li>
+  <!-- 💡 GUÍA RÁPIDA PARA AGREGAR NUEVOS PROYECTOS:
+       Simplemente copia la línea de abajo y cámbiala con los datos de tu nuevo repositorio:
+       <li>🚀 <b><a href="URL_DEL_REPO">Nombre</a>:</b> Breve descripción del proyecto. <code>Tecnología</code></li>
+  -->
 </ul>
 
 <!-- Languages and Tools Section -->
@@ -101,32 +106,18 @@
   </a> 
 </p>
 
-
-<!-- Version en Español -->
+<!-- Version en Ingles (Opcional por si alguien prefiere contraerlo) -->
 <details>
-  <summary>🌎 <b>Leer en Español / Spanish Version</b></summary>
+  <summary>🇺🇸 <b>English Version / Read in English</b></summary>
   <br>
-
-  <h3 align="left" style="color: #ffffff;">🚀 Sobre Mí</h3>
+  <h3 align="left" style="color: #ffffff;">🚀 About Me</h3>
   <ul>
-    <li>🎓 Actualmente curso el 7mo semestre de Ingeniería en Computación en la UAEMex.</li>
-    <li>💼 Trabajo como Software Development Engineer Intern en Bosch y también atiendo clientes independientes para desarrollo web y servicios técnicos.</li>
-    <li>🌱 Estoy profundamente interesado en Ciencia de Datos, Machine Learning, Ciberseguridad y marcos de Gobierno de TI como ISO 27001 e ITIL 4.</li>
-    <li>⚡ Dato curioso: Cuando no estoy programando, disfruto de la modificación de hardware, la restauración de consolas de videojuegos retro y la configuración de distribuciones Linux ligeras en equipos antiguos.</li>
-  </ul>
-
-  <h3 align="left" style="color: #ffffff;">💻 Proyectos Destacados</h3>
-  <ul>
-    <li>🌮 <b>La Ruta del Sabor:</b> Un proyecto web que documenta la gastronomía mexicana de los 32 estados, destacando por su diseño responsivo y carruseles multimedia.</li>
-    <li>🎓 <b>Verde y Oro:</b> Reingeniería de un sistema académico de titulación a nivel facultad, migrándolo a tecnologías modernas como Django.</li>
-    <li>⚽ <b>Predictor del Mundial:</b> Un modelo predictivo de machine learning para la Copa del Mundo 2026 utilizando XGBoost y LightGBM.</li>
+    <li>🎓 Currently in my 7th semester of Computer Engineering at UAEMex.</li>
+    <li>💼 Working as a Software Development Engineer Intern at Bosch.</li>
+    <li>🌱 Interested in Data Science, Machine Learning, Cybersecurity, and IT Governance (ISO 27001, ITIL 4).</li>
   </ul>
 </details>
 <br>
-
-
-
-
 
 <!-- GitHub Stats Section -->
 <div align="center">
@@ -163,5 +154,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parser/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
