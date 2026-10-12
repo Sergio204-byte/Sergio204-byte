@@ -29,11 +29,11 @@
 <h3 align="left" style="color: #ffffff;">💻 Proyectos Destacados</h3>
 <p><i>Una selección rápida de mis trabajos principales.</i></p>
 <ul>
-  <li>🌮 <b><a href="https://github.com/Sergio204-byte">La Ruta del Sabor</a>:</b> Un pequeño proyecto web que documenta la gastronomía mexicana de los 32 estados con diseño responsivo y carruseles multimedia. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
-  <li>🎓 <b><a href="https://github.com/Sergio204-byte">Verde y Oro</a>:</b> Reingeniería del sistema académico de titulación a nivel facultad utilizando tecnologías modernas. <code>Django</code> <code>Python</code> <code>PostgreSQL</code></li>
-  <li>⚽ <b><a href="https://github.com/Sergio204-byte">World Cup Predictor</a>:</b> Modelo predictivo de Machine Learning para la Copa del Mundo 2026. <code>XGBoost</code> <code>LightGBM</code> <code>Python</code></li>
+  <li> <b><a href="https://github.com/Sergio204-byte">La Ruta del Sabor</a>:</b> Un pequeño proyecto web que documenta la gastronomía mexicana de los 32 estados con diseño responsivo y carruseles multimedia. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
+  <li> <b><a href="https://github.com/Sergio204-byte">Verde y Oro</a>:</b> Reingeniería del sistema académico de titulación a nivel de la Facultad de Ingeniería de la UAEMex, utilizando tecnologías modernas. <code>Django</code> <code>Python</code> <code>PostgreSQL</code></li>
+  <li> <b><a href="https://github.com/Sergio204-byte">World Cup Predictor</a>:</b> Modelo predictivo de Machine Learning para la Copa del Mundo 2026. <code>XGBoost</code> <code>LightGBM</code> <code>Python</code></li>
 <code>PostgreSQL</code></li>
-  <li>🌮 <b><a href="https://github.com/Sergio204-byte">Sistema de Monitoreo & control QAKoS</a>:</b> Un pequeño proyecto web que documenta la gastronomía mexicana de los 32 estados con diseño responsivo y carruseles multimedia. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
+  <li> <b><a href="https://github.com/Sergio204-byte">Sistema de Monitoreo & control QAKoS</a>:</b> Proyecto de Monitoreo y soporte para las salas de cómputo de la Facultad de Ingeniería de la UAEMex. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
 </ul>
 
 <!-- Languages and Tools Section -->
