@@ -1,7 +1,7 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center" style="color: #ffffff;">¡¡Hola, yo soy Sergio Martínez!!</h1>
-<h3 align="center" style="color: #ffffff;">Estudiante de Ingeniería en Computación (7mo semestre - UAEMex) & Software Development Engineer Intern en Bosch 🚀</h3>
+<h1 align="center" style="color: #ffffff;">¡Hola, yo soy Sergio Martínez!</h1>
+<h3 align="center" style="color: #ffffff;">Licenciatura: Ingeniería en Computación en la Universidad Autónoma del Estado de México </h3>
 
 <!-- Connect with Me Section -->
 <h3 align="left" style="color: #ffffff;">Contáctame</h3>
@@ -19,23 +19,21 @@
 <!-- ABOUT ME SECTION -->
 <h3 align="left" style="color: #ffffff;"> Sobre mí </h3>
 <ul>
-  <li> 🎓 Actualmente curso el 7mo semestre de Ingeniería en Computación en la UAEMex.</li>
-  <li> 💼 Trabajo como Software Development Engineer Intern en Bosch y atiendo clientes independientes para desarrollo web y soporte técnico.</li>
-  <li> 🌱 Profundamente interesado en Ciencia de Datos, Machine Learning, Ciberseguridad y marcos de Gobierno de TI (ISO 27001, ITIL 4).</li>
-  <li> ⚡ <b>Dato curioso:</b> Disfruto la modificación de hardware, la restauración de consolas retro y configurar distribuciones Linux ligeras en equipos antiguos.</li>
+  <li> Estudiante activo en Ingeniería en Computación en la UAEMex.</li>
+  <li> Estancia profesional activa en Bosch, brindando soporte técnico de TI (Nivel E1) y atención a incidencias tecnológicas.</li>
+  <li> Interesado en Ciencia de Datos, Machine Learning, Ciberseguridad, Gobierno de TI (ISO 27001 e ITIL 4), Desarrollo Web y Automatización de Procesos..</li>
+  <li> <b>Disfruto la modificación de hardware, la restauración de consolas retro y la optimización de distribuciones Linux ligeras para equipos con recursos limitados.</b></li>
 </ul>
 
 <!-- FEATURED PROJECTS SECTION -->
 <h3 align="left" style="color: #ffffff;">💻 Proyectos Destacados</h3>
-<p><i>Una selección rápida de mis trabajos principales. (¡Pronto más actualizaciones!)</i></p>
+<p><i>Una selección rápida de mis trabajos principales.</i></p>
 <ul>
-  <li>🌮 <b><a href="https://github.com/Sergio204-byte">La Ruta del Sabor</a>:</b> Proyecto web que documenta la gastronomía mexicana de los 32 estados con diseño responsivo y carruseles multimedia. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
-  <li>🎓 <b><a href="https://github.com/Sergio204-byte">Verde y Oro</a>:</b> Reingeniería de sistema académico de titulación a nivel facultad utilizando tecnologías modernas. <code>Django</code> <code>Python</code> <code>PostgreSQL</code></li>
+  <li>🌮 <b><a href="https://github.com/Sergio204-byte">La Ruta del Sabor</a>:</b> Un pequeño proyecto web que documenta la gastronomía mexicana de los 32 estados con diseño responsivo y carruseles multimedia. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
+  <li>🎓 <b><a href="https://github.com/Sergio204-byte">Verde y Oro</a>:</b> Reingeniería del sistema académico de titulación a nivel facultad utilizando tecnologías modernas. <code>Django</code> <code>Python</code> <code>PostgreSQL</code></li>
   <li>⚽ <b><a href="https://github.com/Sergio204-byte">World Cup Predictor</a>:</b> Modelo predictivo de Machine Learning para la Copa del Mundo 2026. <code>XGBoost</code> <code>LightGBM</code> <code>Python</code></li>
-  <!-- 💡 GUÍA RÁPIDA PARA AGREGAR NUEVOS PROYECTOS:
-       Simplemente copia la línea de abajo y cámbiala con los datos de tu nuevo repositorio:
-       <li>🚀 <b><a href="URL_DEL_REPO">Nombre</a>:</b> Breve descripción del proyecto. <code>Tecnología</code></li>
-  -->
+<code>PostgreSQL</code></li>
+  <li>🌮 <b><a href="https://github.com/Sergio204-byte">Sistema de Monitoreo & control QAKoS</a>:</b> Un pequeño proyecto web que documenta la gastronomía mexicana de los 32 estados con diseño responsivo y carruseles multimedia. <code>HTML</code> <code>CSS</code> <code>JS</code></li>
 </ul>
 
 <!-- Languages and Tools Section -->
